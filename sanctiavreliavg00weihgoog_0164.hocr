@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiavreliavg00weihgoog_0164.png"; bbox 0 0 956 1360; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 118 74 840 1278">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 118 74 840 1278">
+     <span class='ocr_line' id='line_1_1' title="bbox 118 74 840 1278; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 118 74 840 1278; x_wconf 95' lang='lat' dir='ltr'>   </span> <span class='ocrx_word' id='word_1_2' title='bbox 732 1092 840 1129; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 468 1090 732 1141">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 414 1088 732 1141">
+     <span class='ocr_line' id='line_1_2' title="bbox 479 1090 732 1123; baseline 0 -6"><span class='ocrx_word' id='word_1_3' title='bbox 479 1090 633 1123; x_wconf 52' lang='lat' dir='ltr'>gimnus-0¹3⁸</span> <span class='ocrx_word' id='word_1_4' title='bbox 670 1102 732 1120; x_wconf 67' lang='lat' dir='ltr'>naa-1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 468 1123 651 1141; baseline 0.004 -2.772"><span class='ocrx_word' id='word_1_5' title='bbox 468 1124 584 1141; x_wconf 61' lang='lat' dir='ltr'>nasu-m-</span> <span class='ocrx_word' id='word_1_6' title='bbox 594 1123 651 1140; x_wconf 66' lang='lat' dir='ltr'>rt·-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 820 1098 835 1190">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 820 1098 835 1190">
+     <span class='ocr_line' id='line_1_4' title="bbox 820 1098 835 1190; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 820 1098 835 1190; x_wconf 51' lang='lat' dir='ltr'>a*</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

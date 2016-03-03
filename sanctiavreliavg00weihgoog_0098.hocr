@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiavreliavg00weihgoog_0098.png"; bbox 0 0 956 1360; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 403 1046 758 1119">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 403 1046 758 1119">
+     <span class='ocr_line' id='line_1_1' title="bbox 403 1046 758 1078; baseline -0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 403 1046 421 1069; x_wconf 30' lang='lat'>*2</span> <span class='ocrx_word' id='word_1_2' title='bbox 437 1057 540 1075; x_wconf 59' lang='grc' dir='ltr'>ιιι-*ιι</span> <span class='ocrx_word' id='word_1_3' title='bbox 564 1055 633 1078; x_wconf 57' lang='grc' dir='ltr'>κὴρ»</span> <span class='ocrx_word' id='word_1_4' title='bbox 661 1058 758 1074; x_wconf 60' lang='lat' dir='ltr'>&amp;uam</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 441 1080 757 1099; baseline 0.003 -4"><span class='ocrx_word' id='word_1_5' title='bbox 441 1080 497 1099; x_wconf 59' lang='grc' dir='ltr'><strong>,σι-’θ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 520 1080 660 1096; x_wconf 59' lang='lat' dir='ltr'>umbi*</span> <span class='ocrx_word' id='word_1_7' title='bbox 687 1081 757 1099; x_wconf 63' lang='grc' dir='ltr'><em>Μ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 426 1102 757 1119; baseline -0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 426 1102 513 1119; x_wconf 55' lang='grc' dir='ltr'>ηψπ·</span> <span class='ocrx_word' id='word_1_9' title='bbox 547 1102 685 1119; x_wconf 64' lang='lat' dir='ltr'>nnn-numm</span> <span class='ocrx_word' id='word_1_10' title='bbox 713 1102 757 1118; x_wconf 64' lang='lat' dir='ltr'>u-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 956 1360">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 956 1360">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 956 1360; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 956 1360; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

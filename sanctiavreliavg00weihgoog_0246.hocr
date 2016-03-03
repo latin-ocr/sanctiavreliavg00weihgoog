@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiavreliavg00weihgoog_0246.png"; bbox 0 0 956 1360; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 439 987 740 1139">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 439 987 740 1139">
+     <span class='ocr_line' id='line_1_1' title="bbox 443 987 739 1008; baseline -0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 443 987 486 1005; x_wconf 45' lang='lat' dir='ltr'>aa*</span> <span class='ocrx_word' id='word_1_2' title='bbox 528 987 652 1008; x_wconf 54' lang='lat' dir='ltr'>rubei-m!</span> <span class='ocrx_word' id='word_1_3' title='bbox 682 988 739 1004; x_wconf 59' lang='lat' dir='ltr'>bdu-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 497 1009 739 1029; baseline 0.004 -1"><span class='ocrx_word' id='word_1_4' title='bbox 497 1009 739 1029; x_wconf 44' lang='lat' dir='ltr'>*nummorum-x·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 474 1031 739 1050; baseline 0.008 -4"><span class='ocrx_word' id='word_1_5' title='bbox 474 1031 492 1049; x_wconf 63' lang='lat'><em>8</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 541 1031 739 1050; x_wconf 59' lang='lat' dir='ltr'>annulat-numu.)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 477 1052 739 1073; baseline -0.008 -3"><span class='ocrx_word' id='word_1_7' title='bbox 477 1052 492 1070; x_wconf 63' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_8' title='bbox 515 1054 621 1073; x_wconf 62' lang='lat' dir='ltr'>culm-1³</span> <span class='ocrx_word' id='word_1_9' title='bbox 638 1054 739 1072; x_wconf 61' lang='lat' dir='ltr'>ung-121·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 443 1075 740 1095; baseline -0.003 -3"><span class='ocrx_word' id='word_1_10' title='bbox 443 1075 571 1095; x_wconf 40' lang='lat' dir='ltr'>nubum:</span> <span class='ocrx_word' id='word_1_11' title='bbox 602 1076 740 1091; x_wconf 62' lang='lat' dir='ltr'>xoium-nuum?</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 469 1098 738 1117; baseline -0.004 -3"><span class='ocrx_word' id='word_1_12' title='bbox 469 1098 604 1117; x_wconf 43' lang='lat' dir='ltr'>fluam!</span> <span class='ocrx_word' id='word_1_13' title='bbox 640 1098 738 1117; x_wconf 55' lang='lat' dir='ltr'>fija—1¹,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 439 1118 648 1139; baseline 0 -4"><span class='ocrx_word' id='word_1_14' title='bbox 439 1118 648 1139; x_wconf 54' lang='lat' dir='ltr'>*inmune-uuna?</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 956 1360">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 956 1360">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 956 1360; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 956 1360; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

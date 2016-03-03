@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiavreliavg00weihgoog_0166.png"; bbox 0 0 956 1360; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 401 907 742 991">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 401 907 742 991">
+     <span class='ocr_line' id='line_1_1' title="bbox 421 971 742 991; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 658 971 742 988; x_wconf 55' lang='lat' dir='ltr'>{a</span> <span class='ocrx_word' id='word_1_2' title='bbox 565 971 642 987; x_wconf 61' lang='lat' dir='ltr'>Exan-</span> <span class='ocrx_word' id='word_1_3' title='bbox 487 975 544 991; x_wconf 23' lang='lat' dir='ltr'>-nsnr</span> <span class='ocrx_word' id='word_1_4' title='bbox 421 981 430 989; x_wconf 55' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 401 944 741 970; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 436 944 741 970; x_wconf 42' lang='lat' dir='ltr'>«infigam-g.</span> <span class='ocrx_word' id='word_1_6' title='bbox 401 944 406 966; x_wconf 40' lang='grc' dir='ltr'>Η.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 402 907 696 947; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 681 916 696 940; x_wconf 82' lang='lat'>..</span> <span class='ocrx_word' id='word_1_8' title='bbox 609 928 655 946; x_wconf 61' lang='grc' dir='ltr'>ἒξ·</span> <span class='ocrx_word' id='word_1_9' title='bbox 558 909 599 947; x_wconf 47' lang='grc' dir='ltr'>ὁμὴ</span> <span class='ocrx_word' id='word_1_10' title='bbox 447 907 548 947; x_wconf 53' lang='grc' dir='ltr'>...Νη-ο..</span> <span class='ocrx_word' id='word_1_11' title='bbox 417 911 422 929; x_wconf 86' lang='grc'>..</span> <span class='ocrx_word' id='word_1_12' title='bbox 402 921 404 923; x_wconf 91' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 956 1360">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 956 1360">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 956 1360; textangle 270"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 956 1360; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

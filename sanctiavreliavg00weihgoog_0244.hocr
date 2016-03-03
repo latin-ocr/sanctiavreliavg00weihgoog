@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiavreliavg00weihgoog_0244.png"; bbox 0 0 956 1360; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 489 1075 514 1091">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 489 1075 514 1091">
+     <span class='ocr_line' id='line_1_1' title="bbox 489 1075 514 1091; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 489 1075 514 1091; x_wconf 61' lang='grc' dir='ltr'>’θ’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 402 1097 739 1161">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 402 1084 739 1161">
+     <span class='ocr_line' id='line_1_2' title="bbox 402 1097 739 1119; baseline 0.003 -7"><span class='ocrx_word' id='word_1_2' title='bbox 402 1104 433 1119; x_wconf 51' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 446 1097 739 1117; x_wconf 48' lang='lat' dir='ltr'>&amp;Mammam-ua,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 424 1116 739 1139; baseline 0 -4"><span class='ocrx_word' id='word_1_4' title='bbox 424 1116 667 1139; x_wconf 43' lang='lat' dir='ltr'>mwssmmn·</span> <span class='ocrx_word' id='word_1_5' title='bbox 684 1120 739 1135; x_wconf 66' lang='lat'>1⁰1·-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 473 1141 703 1161; baseline 0 -4"><span class='ocrx_word' id='word_1_6' title='bbox 473 1141 491 1157; x_wconf 66' lang='lat'><em>3</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 515 1142 703 1161; x_wconf 57' lang='lat' dir='ltr'>nquam-iuuat</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 956 1360">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 956 1360">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 956 1360; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 956 1360; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
